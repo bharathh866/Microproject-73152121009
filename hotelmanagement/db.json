@@ -1,0 +1,16 @@
+{
+  "customers": [
+    {
+      "id": "720",
+      "CustomerName": "rahul",
+      "Roomno": "125",
+      "AadharNumber": "1132689"
+    },
+    {
+      "id": "20",
+      "CustomerName": "gokul",
+      "Roomno": "210",
+      "AadharNumber": "217894672743"
+    }
+  ]
+}
